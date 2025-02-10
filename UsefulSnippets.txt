@@ -1,0 +1,9 @@
+
+Place to store useful snippets to cut & paste
+
+Path to the test folder
+C:\Users\amlee\OneDrive\Documents\MyTestProject
+
+Command to start a python local host server on port 8000
+python -m http.server 8000
+
